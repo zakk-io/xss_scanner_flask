@@ -1,1 +1,1 @@
-GET http://127.0.0.1:5001/xss?url=https://dotv3n.github.io/reflectedxss
+GET https://xss-scanner-flask.onrender.com/xss?url=https://dotv3n.github.io/reflectedxss
